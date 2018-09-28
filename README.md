@@ -1,7 +1,7 @@
 # Litor
 Litor (Lite Calculator) is a tool for calculate a simple calculation.
 
-#USAGE
+
 #Termux
 $pkg update && pkg upgrade -y
 $pkg install git
